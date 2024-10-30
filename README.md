@@ -21,7 +21,7 @@ This is a simple RESTful API built with FastAPI to manage a To-Do list. The appl
 ## Setup and Installation
 **Start the FastAPI application:**
 uvicorn main:app --reload
-The API will be available at http://127.0.0.1:8000.
+The API will be available at http://127.0.0.1:8000/docs
 
 API Endpoints
 GET /todos: Retrieves all To-Do items.
